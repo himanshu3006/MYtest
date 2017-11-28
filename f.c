@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int i, n, t1 = 1, t2 = 2, nextTerm;
+    int i, n, t1 = 2, t2 = 3, nextTerm;
     printf("Enter the number of terms: ");
     scanf("%d", &n);
     printf("Fibonacci Series: ");
